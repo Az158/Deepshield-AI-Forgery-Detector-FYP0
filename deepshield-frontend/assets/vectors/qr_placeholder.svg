@@ -1,0 +1,8 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="220" rx="18" fill="#0A0F1E" stroke="#1E6DE0" stroke-width="6"/>
+  <rect x="28" y="28" width="60" height="60" fill="none" stroke="#1E6DE0" stroke-width="6"/>
+  <rect x="132" y="28" width="60" height="60" fill="none" stroke="#1E6DE0" stroke-width="6"/>
+  <rect x="28" y="132" width="60" height="60" fill="none" stroke="#1E6DE0" stroke-width="6"/>
+  <path d="M40 90h20v12H40zM84 52h12v20H84zM146 132h20v12h-20zM170 170h12v12h-12zM128 170h12v20h-12z" fill="#1E6DE0"/>
+  <text x="55" y="118" fill="#E0E6F2" font-family="Arial" font-size="14" opacity="0.7">QR Placeholder</text>
+</svg>

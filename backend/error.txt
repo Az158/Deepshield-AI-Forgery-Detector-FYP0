@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\walee\OneDrive\Desktop\University Work\FYP\V2\backend\verify_startup.py", line 5, in <module>
+    import app.main
+  File "C:\Users\walee\OneDrive\Desktop\University Work\FYP\V2\backend\app\main.py", line 106, in <module>
+    from api.routes import router
+  File "C:\Users\walee\OneDrive\Desktop\University Work\FYP\V2\backend\api\routes.py", line 24, in <module>
+    from services.video_service import analyze_video
+  File "C:\Users\walee\OneDrive\Desktop\University Work\FYP\V2\backend\services\video_service.py", line 33, in <module>
+    from core.config import (
+    ...<5 lines>...
+    )
+ImportError: cannot import name 'MAX_VIDEO_FRAMES' from 'core.config' (C:\Users\walee\OneDrive\Desktop\University Work\FYP\V2\backend\core\config.py)

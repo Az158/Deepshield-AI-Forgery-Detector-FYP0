@@ -1,0 +1,14 @@
+{
+  "name": "deepshield-blockchain",
+  "version": "1.0.0",
+  "description": "DeepShield local blockchain for forensic report anchoring",
+  "scripts": {
+    "node": "npx hardhat node --port 8545",
+    "deploy": "npx hardhat run scripts/deploy.js --network localhost",
+    "compile": "npx hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
